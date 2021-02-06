@@ -1,8 +1,10 @@
 # About Me
 Hey! I'm Colin, your favorite software engineer from nowhere other than Roxbury, New Jersey.
+<!--
 - 😄 My prefered pronouns are...
   - I prefer to use he/him/his pronouns.
   - I'm comfortable with any pronouns, including they/them/their and she/her/hers.
+-->
 - 🔭 My current projects include...
   - Pathfinder: A library using a pathfinding algorithim to generate paths for robots to follow on the fly.
   - elibsx: An incredibly expansive library for FIRST Robotics and Tech competitions/challenges.
