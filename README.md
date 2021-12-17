@@ -1,7 +1,6 @@
 # about me
 hey! my name's colin. i've always gone by he/him/his pronouns out of convenience, but i
-don't really have a preference and am comfortable with anything. i write code and do general
-IT related work for KPM Exceptional LLC. 
+don't really have a preference and am comfortable with anything.
 
 i love sarcasm, a lot. also, i love pissing off pretentious morons.
 
@@ -9,5 +8,4 @@ i love sarcasm, a lot. also, i love pissing off pretentious morons.
 
 - programmer on ftc team 11253 for 6 years
 - driver for ftc team 11253
-- programmer for frc team 4361 4361
-- IT intern at KPM Exceptional LLC
+- programmer for frc team 4361
