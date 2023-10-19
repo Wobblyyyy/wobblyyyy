@@ -1,5 +1,5 @@
 # about me
-hey! my name's colin. i use he/they pronouns, but am comfortable with anything.
+hey! my name's colin. i prefer they/them pronouns, but am comfortable with anything.
 i'm a student at rutgers-new brunswick, intending on double-majoring in computer
 engineering and computer science.
 
