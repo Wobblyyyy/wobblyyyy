@@ -1,3 +1,4 @@
+<!--
 # about me
 hey! my name's colin.
 i'm a student at rutgers-new brunswick, intending on double-majoring in computer
@@ -11,3 +12,5 @@ engineering and computer science.
 - IT intern for KPM Exceptional LLC (june 2021 to december 2021)
 - developer of the [Pathfinder](https://github.com/Wobblyyyy/Pathfinder2)
   and [Pathfinder2](https://github.com/Wobblyyyy/Pathfinder2) libraries
+-->
+swagged the fuck out, indubitably
